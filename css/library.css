@@ -1,3 +1,7 @@
+*{
+    color: #fff;
+}
+
 .delete {
     border: none;
     background-color: rgba(148, 43, 205, 0.941);
@@ -15,4 +19,21 @@
 
   .row .header{
     font-weight: 600;
+  }
+
+  body{
+    background: url(../background.jpg) center;
+    background-size: cover;
+  }
+
+  input, select{
+    color: black;
+  }
+
+  button{
+    color: #d4c3c3;
+  }
+
+  button:hover{
+    color: #fff;
   }
