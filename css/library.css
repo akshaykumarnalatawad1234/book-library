@@ -26,7 +26,7 @@
     background-size: cover;
   }
 
-  input, select{
+  input, select, option{
     color: black;
   }
 
