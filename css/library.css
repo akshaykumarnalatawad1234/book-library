@@ -1,0 +1,18 @@
+.delete {
+    border: none;
+    background-color: rgba(148, 43, 205, 0.941);
+    color: white;
+  }
+  .delete:hover {
+    background-color: rgba(54, 7, 79, 0.941);
+    color: white;
+  }
+
+  .row{
+    text-align: center;
+    margin: 1rem;
+  }
+
+  .row .header{
+    font-weight: 600;
+  }
